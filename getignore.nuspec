@@ -43,7 +43,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- If there is a license Url available, it is is required for the community feed -->
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/gotgenes/getignore</projectSourceUrl>
+    <!--<projectSourceUrl>https://github.com/gotgenes/getignore</projectSourceUrl>-->
     <docsUrl>https://github.com/gotgenes/getignore/blob/master/README.md</docsUrl>
     <!--<mailingListUrl></mailingListUrl>-->
     <bugTrackerUrl>https://github.com/gotgenes/getignore/issues</bugTrackerUrl>
