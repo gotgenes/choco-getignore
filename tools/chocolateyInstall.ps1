@@ -1,6 +1,6 @@
 ﻿Install-ChocolateyZipPackage `
  -PackageName 'getignore' `
- -Checksum '0d63cbf80d47e14fcede4e001d39dabcbfd0103ce927c6b4e9a7db9258f715f8' `
+ -Checksum 'fcd992e4df31a71c6cf8de39b8dbc4e36e91db782b2f6529893729ccc6a812cb' `
  -ChecksumType 'sha256' `
- -Url 'https://github.com/gotgenes/getignore/releases/download/0.3.0/getignore-0.3.0-windows-amd64.zip' `
+ -Url 'https://github.com/gotgenes/getignore/releases/download/1.0.0/getignore-1.0.0-windows-amd64.zip' `
  -UnzipLocation "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
