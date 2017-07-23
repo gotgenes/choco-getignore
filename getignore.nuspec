@@ -41,7 +41,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/getignore.png</iconUrl>-->
     <copyright>2016 Ian M. Firkin and Christopher D. Lasher</copyright>
     <!-- If there is a license Url available, it is is required for the community feed -->
-    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <licenseUrl>https://github.com/gotgenes/getignore/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--<projectSourceUrl>https://github.com/gotgenes/getignore</projectSourceUrl>-->
     <docsUrl>https://github.com/gotgenes/getignore/blob/master/README.md</docsUrl>
